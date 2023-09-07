@@ -1,7 +1,8 @@
 # Employee_management
 The Employee Management System is a web-based application that simplifies the management of employee records within an organization.
 
-control flow
+control flow :
+
 Entity Class (Employee):
       Represents the structure of an employee with attributes like ID, first name, last name, and email.
 Repository (EmployeeRepository):
